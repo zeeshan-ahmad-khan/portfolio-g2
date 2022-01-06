@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Zeeshan Ahmad Khan",
+    "occupation": "Frontend Developer (REACT JS)",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Zeeshan Ahmad Khan, self-taught Frontend Developer. I have experience in React JS framework (Redux & NextJs also), with keen interest in UI/UX. Aim to become Full Stack Developer. I have developed many personal projects during my learning journey, check them in project section.",
+    "contactmessage": "Hire Me! / Get in touch with me",
+    "email": "prof.gul.zak@gmail.com",
+    "phone": "+91 7309416881",
+    "address": {
+      "street": "72B/2B Mastan Market,",
+      "city": "Allahabad(Prayagraj),",
+      "state": "UP",
+      "zip": "211016"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zeeshan-ahmad-khan-178563170",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/zeeshan-ahmad-khan",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/zakamator?t=r-OgVtoIKbBKPKqJDm8U8g&s=08",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "United College of Engineering & Research, UP",
+        "degree": "Bachelor's Degree",
+        "graduated": "September 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Limited (TCS)",
+        "title": "Assistance System Engineer",
+        "years": "May 2021 - Present",
+        "description": "Working with the team to resolve the issues, using backend system"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe XD/ Figma",
+        "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "The Movie App with pagination",
+        "category": "Javascript",
+        "image": "MA2.png",
+        "url": "https://movie-app-v.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "ReactJS",
+        "image": "netflix.jfif",
+        "url": "https://netflix-clone-v11.netlify.app/"
+      },
+      {
+        "title": "Web3 Chat App (MetaChat) using Moralis.io & NextJS",
+        "category": "ReactJS",
+        "image": "metachat.jfif",
+        "url": "https://metaverse-chat-plum.vercel.app/"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "category": "Javascript",
+        "image": "tictactoe.png",
+        "url": "https://tic-tac-toe-v.netlify.app/"
+      },
+      {
+        "title": "Scientific Calculator",
+        "category": "Javascript",
+        "image": "calc.png",
+        "url": "https://scientific-calculator-v.netlify.app/"
+      },
+      {
+        "title": "Swatch Generator",
+        "category": "ReactJs",
+        "image": "color.jfif",
+        "url": "https://colour-generator-v1.netlify.app/"
+      },
+      {
+        "title": "Todo List with local storage",
+        "category": "ReactJs",
+        "image": "todo.png",
+        "url": "https://react-todo-list-v1.netlify.app/"
+      },
+      {
+        "title": "Random Password Generator",
+        "category": "Javascript",
+        "image": "RPG1.png",
+        "url": "https://random-password-generator-v.netlify.app/"
+      },
+      {
+        "title": "Wetharia - The Weather App",
+        "category": "Javascript",
+        "image": "WA1.png",
+        "url": "https://weather-app-z2.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
