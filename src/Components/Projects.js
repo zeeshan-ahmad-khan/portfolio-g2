@@ -21,7 +21,7 @@ function Projects() {
         <div className="projects">
             <ProjectsHeader />
             <Portfolio data={resumeData.portfolio} />
-            <Contact />
+            <Contact data={resumeData.main} />
         </div>
     )
 }
