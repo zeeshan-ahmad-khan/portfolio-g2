@@ -31,6 +31,11 @@
         "name": "twitter",
         "url": "https://twitter.com/zakamator?t=r-OgVtoIKbBKPKqJDm8U8g&s=08",
         "className": "fa fa-twitter"
+      },
+      {
+        "name": "codepen",
+        "url": "https://codepen.io/your-work",
+        "className": "fa fa-code"
       }
     ]
   },
@@ -77,6 +82,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Cryptoverse",
+        "category": "ReactJs",
+        "image": "Cryptoverse.png",
+        "url": "https://cryptoverse-app-v1.netlify.app/"
+      },
       {
         "title": "The Movie App with pagination",
         "category": "Javascript",
