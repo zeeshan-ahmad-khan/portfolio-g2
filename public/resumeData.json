@@ -83,6 +83,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "MARVELXDC Cardverse",
+        "category": "ReactJs,Redux,Firebase",
+        "image": "Cardverse.png",
+        "url": "https://cardverse.netlify.app/"
+      },
+      {
         "title": "Cryptoverse",
         "category": "ReactJs",
         "image": "Cryptoverse.png",
@@ -99,12 +105,6 @@
         "category": "ReactJS",
         "image": "netflix.jfif",
         "url": "https://netflix-clone-v11.netlify.app/"
-      },
-      {
-        "title": "Madhyam(Channel) - The Medium Clone using Sanity CMS",
-        "category": "NextJS",
-        "image": "madhyam.png",
-        "url": "https://react-projects-wheat.vercel.app/"
       },
       {
         "title": "Web3 Chat App (MetaChat) using Moralis.io & NextJS",
