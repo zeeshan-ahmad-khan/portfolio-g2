@@ -71,8 +71,8 @@
         "level": "80%"
       },
       {
-        "name": "Adobe XD/ Figma",
-        "level": "35%"
+        "name": "Python",
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -97,7 +97,7 @@
       {
         "title": "Cryptoverse",
         "category": "ReactJs",
-        "image": "Cryptoverse.png",
+        "image": "cryptoverse.png",
         "url": "https://cryptoverse-app-v1.netlify.app/"
       },
       {
