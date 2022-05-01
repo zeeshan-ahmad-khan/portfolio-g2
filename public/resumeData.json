@@ -83,6 +83,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Chit Chat",
+        "category": "ReactJS, Firebase",
+        "image": "chat.png",
+        "url": "https://chit-chat-v1.netlify.app/"
+      },
+      {
         "title": "MARVELXDC Cardverse",
         "category": "ReactJs,Redux,Firebase",
         "image": "Cardverse.png",
@@ -105,12 +111,6 @@
         "category": "ReactJS",
         "image": "netflix.jfif",
         "url": "https://netflix-clone-v11.netlify.app/"
-      },
-      {
-        "title": "Web3 Chat App (MetaChat) using Moralis.io & NextJS",
-        "category": "ReactJS",
-        "image": "metachat.jfif",
-        "url": "https://metaverse-chat-plum.vercel.app/"
       },
       {
         "title": "Tic-Tac-Toe",
