@@ -76,8 +76,16 @@
         "level": "80%"
       },
       {
-        "name": "Python",
+        "name": "NodeJs / ExpressJs",
         "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
       },
       {
         "name": "Git",
