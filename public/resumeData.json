@@ -18,6 +18,11 @@
     "resumedownload": "Zeeshan_Resume.pdf",
     "social": [
       {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC66fGZUDoStVDoVyirL-TwA",
+        "className": "fa fa-youtube"
+      },
+      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/zeeshan-ahmad-khan-178563170",
         "className": "fa fa-linkedin"

@@ -8,7 +8,7 @@ const Header = ({ data }) => {
     var occupation = data.occupation;
     var networks = data.social.map(function (network) {
       return (
-        <li key={network.name}>
+        <li key={network.name} title={network.name}>
           <a href={network.url}>
             <i className={network.className}></i>
           </a>
