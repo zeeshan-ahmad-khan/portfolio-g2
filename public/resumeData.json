@@ -96,6 +96,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "VueChat - Realtime ChatApp",
+        "category": "VueJs,Firebase",
+        "image": "vue3chat.png",
+        "url": "https://vue-realtime-chatapp.netlify.app/"
+      },
+      {
+        "title": "Vue Notes App",
+        "category": "VueJs",
+        "image": "vue3notes.png",
+        "url": "https://vue-notes-app-v1.netlify.app/"
+      },
+      {
         "title": "Chit Chat",
         "category": "ReactJS, Firebase",
         "image": "chat.png",
@@ -142,12 +154,6 @@
         "category": "ReactJs",
         "image": "color.jfif",
         "url": "https://colour-generator-v1.netlify.app/"
-      },
-      {
-        "title": "Todo List with local storage",
-        "category": "ReactJs",
-        "image": "todo.png",
-        "url": "https://react-todo-list-v1.netlify.app/"
       },
       {
         "title": "Random Password Generator",
