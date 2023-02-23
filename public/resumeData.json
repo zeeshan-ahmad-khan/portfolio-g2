@@ -96,18 +96,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "VueChat - Realtime ChatApp",
-        "category": "VueJs,Firebase",
-        "image": "vue3chat.png",
-        "url": "https://vue-realtime-chatapp.netlify.app/"
-      },
-      {
-        "title": "Vue Notes App",
-        "category": "VueJs",
-        "image": "vue3notes.png",
-        "url": "https://vue-notes-app-v1.netlify.app/"
-      },
-      {
         "title": "Chit Chat",
         "category": "ReactJS, Firebase",
         "image": "chat.png",
